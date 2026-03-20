@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Sourav</h1>
 <h3 align="center">🎓A passionate Computer Science Student</h3>
 
-<p align="left"> <a href="https://twitter.com/sourav_2024" target="blank"><img src="https://img.shields.io/twitter/follow/sourav_2024?logo=twitter&style=for-the-badge" alt="sourav_2024" /></a> </p>
+<p align="center"> <a href="https://twitter.com/sourav_2024" target="blank"><img src="https://img.shields.io/twitter/follow/sourav_2024?logo=twitter&style=for-the-badge" alt="sourav_2024" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://sourav-sarkar-portfolio-website.netlify.app)
 
@@ -9,14 +9,8 @@
 
 - 📫 How to reach me **souravsarkar.professional@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sourav_2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sourav_2024" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/souravsarkar-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souravsarkar-in" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h2 align="center">Languages and Tools:</h2>
+<p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
@@ -65,4 +59,4 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourav-sarkar-official&show_icons=true&locale=en&layout=compact" alt="sourav-sarkar-official" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourav-sarkar-official&show_icons=true&locale=en&layout=compact" alt="sourav-sarkar-official" /></p>
